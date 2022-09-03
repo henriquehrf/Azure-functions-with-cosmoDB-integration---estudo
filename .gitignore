@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Task.Shared/bin/Debug/net6.0
+/Task.Shared/obj
+/TaskTrigger/.vs
+/TaskTrigger/.vscode
+/TaskTrigger/bin
+/TaskTrigger/obj
+/TaskTrigger/local.settings.json
